@@ -3,3 +3,4 @@
 
 ## 安装
 要安装此插件，请向你的QChatGPT机器人发送以下命令：
+!plugin get https://github.com/DAsk755/jjjsoo
