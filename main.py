@@ -1,7 +1,7 @@
 from pkg.plugin.context import register, llm_func, BasePlugin, APIHost
 import requests
 
-@register(name="Weather", description="Provides weather information", version="0.1", author="YourName")
+@register(name="Weather", description="Provides weather information", version="0.1", author="daskm")
 class WeatherPlugin(BasePlugin):
 
     def __init__(self, host: APIHost):
